@@ -1,0 +1,327 @@
+orderNumber;customerNumber;customerName;Total
+10100;363;Online Diecast Creations Co.                      ;10195
+10101;128;Blauer See Auto, Co.                              ;10551
+10102;181;Vitachrome Inc.                                   ;5507
+10103;121;Baane Mini Imports                                ;50205
+10104;141;Euro+ Shopping Channel                            ;40176
+10105;145;Danish Wholesale Imports                          ;53952
+10106;278;Rovelli Gifts                                     ;52149
+10107;131;Land of Toys Inc.                                 ;22286
+10108;385;Cruz & Sons Co.                                   ;50977
+10109;486;Motor Mint Distributors Inc.                      ;25844
+10110;187;AV Stores, Co.                                    ;48413
+10111;129;Mini Wheels Co.                                   ;16534
+10112;144;Volvo Model Replicas, Co                          ;7668
+10113;124;Mini Gifts Distributors Ltd.                      ;11067
+10114;172;La Corne D'abondance, Co.                         ;33378
+10115;424;Classic Legends Inc.                              ;21662
+10116;381;Royale Belge                                      ;1620
+10117;148;Dragon Souveniers, Ltd.                           ;44336
+10118;216;Enaco Distributors                                ;3096
+10119;382;Salzburg Collectables                             ;35777
+10120;114;Australian Collectors, Co.                        ;45862
+10121;353;Reims Collectables                                ;16698
+10122;350;Marseille Mini Autos                              ;50845
+10123;103;Atelier graphique                                 ;14564
+10124;112;Signal Gift Stores                                ;32638
+10125;114;Australian Collectors, Co.                        ;7540
+10126;458;Corrida Auto Replicas, Ltd                        ;57141
+10127;151;Muscle Machine Inc                                ;58903
+10128;141;Euro+ Shopping Channel                            ;13888
+10129;324;Stylish Desk Decors, Co.                          ;29375
+10130;198;Auto-Moto Classics Inc.                           ;6060
+10131;447;Gift Ideas Corp.                                  ;17082
+10132;323;Down Under Souveniers, Inc                        ;2880
+10133;141;Euro+ Shopping Channel                            ;22339
+10134;250;Lyon Souveniers                                   ;23418
+10135;124;Mini Gifts Distributors Ltd.                      ;55638
+10136;242;Alpha Cognac                                      ;14210
+10137;353;Reims Collectables                                ;13940
+10138;496;Kelly's Gift Shop                                 ;32107
+10139;282;Souveniers And Things Co.                         ;23981
+10140;161;Technics Stores Inc.                              ;38681
+10141;334;Suominen Souveniers                               ;29696
+10142;124;Mini Gifts Distributors Ltd.                      ;56020
+10143;320;Mini Creations Ltd.                               ;41065
+10144;381;Royale Belge                                      ;1120
+10145;205;Toys4GrownUps.com                                 ;50412
+10146;447;Gift Ideas Corp.                                  ;6619
+10147;379;Collectables For Less Inc.                        ;32655
+10148;276;Anna's Decorations, Ltd                           ;41548
+10149;487;Signal Collectibles Ltd.                          ;29995
+10150;148;Dragon Souveniers, Ltd.                           ;38284
+10151;311;Oulu Toy Supplies, Inc.                           ;32711
+10152;333;Australian Gift Network, Co                       ;9812
+10153;141;Euro+ Shopping Channel                            ;44977
+10154;219;Boards & Toys Co.                                 ;4449
+10155;186;Toys of Finland, Co.                              ;37605
+10156;141;Euro+ Shopping Channel                            ;4624
+10157;473;Frau da Collezione                                ;17744
+10158;121;Baane Mini Imports                                ;1496
+10159;321;Corporate Gift Ideas Co.                          ;54642
+10160;347;Men 'R' US Retailers, Ltd.                        ;20471
+10161;227;Heintze Collectables                              ;36134
+10162;321;Corporate Gift Ideas Co.                          ;30878
+10163;424;Classic Legends Inc.                              ;22015
+10164;452;Mini Auto Werke                                   ;27154
+10165;148;Dragon Souveniers, Ltd.                           ;67351
+10166;462;FunGiftIdeas.com                                  ;9993
+10167;448;Scandinavian Gift Ideas                           ;44222
+10168;161;Technics Stores Inc.                              ;50766
+10169;276;Anna's Decorations, Ltd                           ;38594
+10170;452;Mini Auto Werke                                   ;15119
+10171;233;Québec Home Shopping Network                      ;16904
+10172;175;Gift Depot Inc.                                   ;24885
+10173;278;Rovelli Gifts                                     ;37709
+10174;333;Australian Gift Network, Co                       ;23919
+10175;324;Stylish Desk Decors, Co.                          ;37498
+10176;386;L'ordine Souveniers                               ;38512
+10177;344;CAF Imports                                       ;31467
+10178;242;Alpha Cognac                                      ;33890
+10179;496;Kelly's Gift Shop                                 ;22967
+10180;171;Daedalus Designs Imports                          ;42793
+10181;167;Herkku Gifts                                      ;55053
+10182;124;Mini Gifts Distributors Ltd.                      ;45023
+10183;339;Classic Gift Ideas, Inc                           ;34595
+10184;484;Iberia Gift Imports, Corp.                        ;47544
+10185;320;Mini Creations Ltd.                               ;52578
+10186;489;Double Decker Gift Stores, Ltd                    ;22274
+10187;211;King Kong Collectables, Co.                       ;28259
+10188;167;Herkku Gifts                                      ;29990
+10189;205;Toys4GrownUps.com                                 ;3892
+10190;141;Euro+ Shopping Channel                            ;10772
+10191;259;Toms Spezialitäten, Ltd                           ;28032
+10192;363;Online Diecast Creations Co.                      ;55381
+10193;471;Australian Collectables, Ltd                      ;35470
+10194;146;Saveley & Henriot, Co.                            ;39681
+10195;319;Mini Classics                                     ;36117
+10196;455;Super Scale Inc.                                  ;38165
+10197;216;Enaco Distributors                                ;40460
+10198;385;Cruz & Sons Co.                                   ;20690
+10199;475;West Coast Collectables Co.                       ;7650
+10200;211;King Kong Collectables, Co.                       ;17177
+10201;129;Mini Wheels Co.                                   ;23951
+10202;357;GiftsForHim.com                                   ;20208
+10203;141;Euro+ Shopping Channel                            ;40020
+10204;151;Muscle Machine Inc                                ;58877
+10205;141;Euro+ Shopping Channel                            ;13076
+10206;202;Canadian Gift Exchange Network                    ;36546
+10207;495;Diecast Collectables                              ;59339
+10208;146;Saveley & Henriot, Co.                            ;49660
+10209;347;Men 'R' US Retailers, Ltd.                        ;21060
+10210;177;Osaka Souveniers Co.                              ;47161
+10211;406;Auto Canal+ Petit                                 ;49190
+10212;141;Euro+ Shopping Channel                            ;59877
+10213;489;Double Decker Gift Stores, Ltd                    ;7299
+10214;458;Corrida Auto Replicas, Ltd                        ;22191
+10215;475;West Coast Collectables Co.                       ;36014
+10216;256;Auto Associés & Cie.                              ;5762
+10217;166;Handji Gifts& Co                                  ;22481
+10218;473;Frau da Collezione                                ;7588
+10219;487;Signal Collectibles Ltd.                          ;12610
+10220;189;Clover Collections, Co.                           ;32559
+10221;314;Petit Auto                                        ;16892
+10222;239;Collectable Mini Designs Co.                      ;56788
+10223;114;Australian Collectors, Co.                        ;44961
+10224;171;Daedalus Designs Imports                          ;18983
+10225;298;Vida Sport, Ltd                                   ;47451
+10226;239;Collectable Mini Designs Co.                      ;23511
+10227;146;Saveley & Henriot, Co.                            ;40970
+10228;173;Cambridge Collectables Co.                        ;20331
+10229;124;Mini Gifts Distributors Ltd.                      ;43369
+10230;128;Blauer See Auto, Co.                              ;33760
+10231;344;CAF Imports                                       ;15309
+10232;240;giftsbymail.co.uk                                 ;24993
+10233;328;Tekni Collectables Inc.                           ;7188
+10234;412;Extreme Desk Decorations, Ltd                     ;31669
+10235;260;Royal Canadian Collectables, Ltd.                 ;29306
+10236;486;Motor Mint Distributors Inc.                      ;5927
+10237;181;Vitachrome Inc.                                   ;22624
+10238;145;Danish Wholesale Imports                          ;28215
+10239;311;Oulu Toy Supplies, Inc.                           ;16162
+10240;177;Osaka Souveniers Co.                              ;15193
+10241;209;Mini Caravy                                       ;36045
+10242;456;Microscale Inc.                                   ;1702
+10243;495;Diecast Collectables                              ;6287
+10244;141;Euro+ Shopping Channel                            ;26160
+10245;455;Super Scale Inc.                                  ;32238
+10246;141;Euro+ Shopping Channel                            ;35475
+10247;334;Suominen Souveniers                               ;28421
+10248;131;Land of Toys Inc.                                 ;41436
+10249;173;Cambridge Collectables Co.                        ;11852
+10250;450;The Sharp Gifts Warehouse                         ;42745
+10251;328;Tekni Collectables Inc.                           ;31084
+10252;406;Auto Canal+ Petit                                 ;25087
+10253;201;UK Collectables, Ltd.                             ;45463
+10254;323;Down Under Souveniers, Inc                        ;37302
+10255;209;Mini Caravy                                       ;4646
+10256;145;Danish Wholesale Imports                          ;4699
+10257;450;The Sharp Gifts Warehouse                         ;16737
+10258;398;Tokyo Collectables, Ltd                           ;22048
+10259;166;Handji Gifts& Co                                  ;44084
+10260;357;GiftsForHim.com                                   ;37836
+10261;233;Québec Home Shopping Network                      ;23028
+10262;141;Euro+ Shopping Channel                            ;47123
+10263;175;Gift Depot Inc.                                   ;42042
+10264;362;Gifts4AllAges.com                                 ;18479
+10265;471;Australian Collectables, Ltd                      ;9402
+10266;386;L'ordine Souveniers                               ;51602
+10267;151;Muscle Machine Inc                                ;20319
+10268;412;Extreme Desk Decorations, Ltd                     ;35074
+10269;382;Salzburg Collectables                             ;6384
+10270;282;Souveniers And Things Co.                         ;35781
+10271;124;Mini Gifts Distributors Ltd.                      ;37507
+10272;157;Diecast Classics Inc.                             ;23741
+10273;314;Petit Auto                                        ;45328
+10274;379;Collectables For Less Inc.                        ;12529
+10275;119;La Rochelle Gifts                                 ;47882
+10276;204;Online Mini Collectables                          ;51260
+10277;148;Dragon Souveniers, Ltd.                           ;2604
+10278;112;Signal Gift Stores                                ;33325
+10279;141;Euro+ Shopping Channel                            ;19971
+10280;249;Amica Models & Co.                                ;48240
+10281;157;Diecast Classics Inc.                             ;39613
+10282;124;Mini Gifts Distributors Ltd.                      ;48038
+10283;260;Royal Canadian Collectables, Ltd.                 ;37561
+10284;299;Norway Gifts By Mail, Co.                         ;32306
+10285;286;Marta's Replicas Co.                              ;43159
+10286;172;La Corne D'abondance, Co.                         ;1976
+10287;298;Vida Sport, Ltd                                   ;61374
+10288;166;Handji Gifts& Co                                  ;38762
+10289;167;Herkku Gifts                                      ;12527
+10290;198;Auto-Moto Classics Inc.                           ;5860
+10291;448;Scandinavian Gift Ideas                           ;48797
+10292;131;Land of Toys Inc.                                 ;35338
+10293;249;Amica Models & Co.                                ;33928
+10294;204;Online Mini Collectables                          ;4410
+10295;362;Gifts4AllAges.com                                 ;15070
+10296;415;Bavarian Collectables Imports, Co.                ;31329
+10297;189;Clover Collections, Co.                           ;17368
+10298;103;Atelier graphique                                 ;6086
+10299;186;Toys of Finland, Co.                              ;34351
+10300;128;Blauer See Auto, Co.                              ;24112
+10301;299;Norway Gifts By Mail, Co.                         ;36787
+10302;201;UK Collectables, Ltd.                             ;23920
+10303;484;Iberia Gift Imports, Corp.                        ;3486
+10304;256;Auto Associés & Cie.                              ;53078
+10305;286;Marta's Replicas Co.                              ;47466
+10306;187;AV Stores, Co.                                    ;52787
+10307;339;Classic Gift Ideas, Inc                           ;23275
+10308;319;Mini Classics                                     ;42361
+10309;121;Baane Mini Imports                                ;17914
+10310;259;Toms Spezialitäten, Ltd                           ;61184
+10311;141;Euro+ Shopping Channel                            ;36143
+10312;124;Mini Gifts Distributors Ltd.                      ;55559
+10313;202;Canadian Gift Exchange Network                    ;33596
+10314;227;Heintze Collectables                              ;53721
+10315;119;La Rochelle Gifts                                 ;19490
+10316;240;giftsbymail.co.uk                                 ;46768
+10317;161;Technics Stores Inc.                              ;2450
+10318;157;Diecast Classics Inc.                             ;35178
+10319;456;Microscale Inc.                                   ;27576
+10320;144;Volvo Model Replicas, Co                          ;16823
+10321;462;FunGiftIdeas.com                                  ;48373
+10322;363;Online Diecast Creations Co.                      ;50808
+10323;128;Blauer See Auto, Co.                              ;7463
+10324;181;Vitachrome Inc.                                   ;44396
+10325;121;Baane Mini Imports                                ;34650
+10326;144;Volvo Model Replicas, Co                          ;19226
+10327;145;Danish Wholesale Imports                          ;20547
+10328;278;Rovelli Gifts                                     ;37705
+10329;131;Land of Toys Inc.                                 ;49982
+10330;385;Cruz & Sons Co.                                   ;15832
+10331;486;Motor Mint Distributors Inc.                      ;45984
+10332;187;AV Stores, Co.                                    ;47158
+10333;129;Mini Wheels Co.                                   ;26233
+10334;144;Volvo Model Replicas, Co                          ;23044
+10335;124;Mini Gifts Distributors Ltd.                      ;6477
+10336;172;La Corne D'abondance, Co.                         ;51252
+10337;424;Classic Legends Inc.                              ;25479
+10338;381;Royale Belge                                      ;12070
+10339;398;Tokyo Collectables, Ltd                           ;48899
+10340;216;Enaco Distributors                                ;24915
+10341;382;Salzburg Collectables                             ;42815
+10342;114;Australian Collectors, Co.                        ;40281
+10343;353;Reims Collectables                                ;17121
+10344;350;Marseille Mini Autos                              ;18858
+10345;103;Atelier graphique                                 ;1677
+10346;112;Signal Gift Stores                                ;14161
+10347;114;Australian Collectors, Co.                        ;41997
+10348;458;Corrida Auto Replicas, Ltd                        ;33165
+10349;151;Muscle Machine Inc                                ;39903
+10350;141;Euro+ Shopping Channel                            ;46467
+10351;324;Stylish Desk Decors, Co.                          ;13680
+10352;198;Auto-Moto Classics Inc.                           ;9655
+10353;447;Gift Ideas Corp.                                  ;26285
+10354;323;Down Under Souveniers, Inc                        ;39439
+10355;141;Euro+ Shopping Channel                            ;25541
+10356;250;Lyon Souveniers                                   ;26316
+10357;124;Mini Gifts Distributors Ltd.                      ;40626
+10358;141;Euro+ Shopping Channel                            ;44202
+10359;353;Reims Collectables                                ;32602
+10360;496;Kelly's Gift Shop                                 ;52121
+10361;282;Souveniers And Things Co.                         ;31825
+10362;161;Technics Stores Inc.                              ;12678
+10363;334;Suominen Souveniers                               ;45837
+10364;350;Marseille Mini Autos                              ;1824
+10365;320;Mini Creations Ltd.                               ;8298
+10366;381;Royale Belge                                      ;14408
+10367;205;Toys4GrownUps.com                                 ;39572
+10368;124;Mini Gifts Distributors Ltd.                      ;13905
+10369;379;Collectables For Less Inc.                        ;28249
+10370;276;Anna's Decorations, Ltd                           ;27072
+10371;124;Mini Gifts Distributors Ltd.                      ;35117
+10372;398;Tokyo Collectables, Ltd                           ;33957
+10373;311;Oulu Toy Supplies, Inc.                           ;46752
+10374;333;Australian Gift Network, Co                       ;21405
+10375;119;La Rochelle Gifts                                 ;49564
+10376;219;Boards & Toys Co.                                 ;3465
+10377;186;Toys of Finland, Co.                              ;23623
+10378;141;Euro+ Shopping Channel                            ;32328
+10379;141;Euro+ Shopping Channel                            ;16623
+10380;141;Euro+ Shopping Channel                            ;34442
+10381;321;Corporate Gift Ideas Co.                          ;32607
+10382;124;Mini Gifts Distributors Ltd.                      ;47735
+10383;141;Euro+ Shopping Channel                            ;36905
+10384;321;Corporate Gift Ideas Co.                          ;14153
+10385;124;Mini Gifts Distributors Ltd.                      ;4473
+10386;141;Euro+ Shopping Channel                            ;46995
+10387;148;Dragon Souveniers, Ltd.                           ;3520
+10388;462;FunGiftIdeas.com                                  ;30294
+10389;448;Scandinavian Gift Ideas                           ;27986
+10390;124;Mini Gifts Distributors Ltd.                      ;55856
+10391;276;Anna's Decorations, Ltd                           ;29846
+10392;452;Mini Auto Werke                                   ;8801
+10393;323;Down Under Souveniers, Inc                        ;33625
+10394;141;Euro+ Shopping Channel                            ;18068
+10395;250;Lyon Souveniers                                   ;17916
+10396;124;Mini Gifts Distributors Ltd.                      ;27713
+10397;242;Alpha Cognac                                      ;12404
+10398;353;Reims Collectables                                ;46726
+10399;496;Kelly's Gift Shop                                 ;30271
+10400;450;The Sharp Gifts Warehouse                         ;31762
+10401;328;Tekni Collectables Inc.                           ;43589
+10402;406;Auto Canal+ Petit                                 ;12203
+10403;201;UK Collectables, Ltd.                             ;37209
+10404;323;Down Under Souveniers, Inc                        ;41398
+10405;209;Mini Caravy                                       ;35099
+10406;145;Danish Wholesale Imports                          ;21662
+10407;450;The Sharp Gifts Warehouse                         ;52232
+10408;398;Tokyo Collectables, Ltd                           ;615
+10409;166;Handji Gifts& Co                                  ;2332
+10410;357;GiftsForHim.com                                   ;36422
+10411;233;Québec Home Shopping Network                      ;29121
+10412;141;Euro+ Shopping Channel                            ;46890
+10413;175;Gift Depot Inc.                                   ;28530
+10414;362;Gifts4AllAges.com                                 ;50743
+10415;471;Australian Collectables, Ltd                      ;10940
+10416;386;L'ordine Souveniers                               ;35376
+10417;141;Euro+ Shopping Channel                            ;28591
+10418;412;Extreme Desk Decorations, Ltd                     ;23644
+10419;382;Salzburg Collectables                             ;52412
+10420;282;Souveniers And Things Co.                         ;42222
+10421;124;Mini Gifts Distributors Ltd.                      ;7645
+10422;157;Diecast Classics Inc.                             ;5816
+10423;314;Petit Auto                                        ;8576
+10424;141;Euro+ Shopping Channel                            ;29330
+10425;119;La Rochelle Gifts                                 ;41667
